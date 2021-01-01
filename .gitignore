@@ -1,13 +1,3 @@
-frames/
-webkit2png.sh
-
-# Sass
-.sass-cache
-*.scssc
-
-# Jekyll
-_site
-
 # Node.js
 node_modules/
 
